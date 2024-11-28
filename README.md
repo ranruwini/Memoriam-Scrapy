@@ -15,3 +15,8 @@ Time:  around 23 seconds
 
 Time:  around 9 seconds
 ![image](https://github.com/user-attachments/assets/a5a6d899-4a84-45c3-bc06-e9f7c15f1787)
+
+**3 - LK (Sunday Times) - https://www.sundayobserver.lk/category/obituaries/**
+
+Time:  around 50 seconds
+![image](https://github.com/user-attachments/assets/43d4d6ea-969e-48f8-9a6d-05832b9c90f3)
