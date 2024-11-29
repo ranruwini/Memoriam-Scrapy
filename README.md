@@ -20,3 +20,7 @@ Time:  around 9 seconds
 
 Time:  around 50 seconds
 ![image](https://github.com/user-attachments/assets/43d4d6ea-969e-48f8-9a6d-05832b9c90f3)
+
+**4 - LK (Daily News Archive) - https://www.dailynews.lk/2024/10/21/obituaries/657697/obituaries-332/**
+Time:  around 35 seconds
+![image](https://github.com/user-attachments/assets/f3ba8646-e20e-4a3d-bb61-f9e4b6c5c827)
