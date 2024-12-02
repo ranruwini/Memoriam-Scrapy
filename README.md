@@ -23,6 +23,12 @@ Time:  around 50 seconds
 
 ![image](https://github.com/user-attachments/assets/43d4d6ea-969e-48f8-9a6d-05832b9c90f3)
 
+**Multiple pages**
+
+Time:  around 476 seconds
+
+![image](https://github.com/user-attachments/assets/7ee20b3f-8d92-44fd-b001-a69128a7d03c)
+
 **4 - LK (Daily News Archive) - https://www.dailynews.lk/2024/10/21/obituaries/657697/obituaries-332/**
 
 Time:  around 35 seconds
