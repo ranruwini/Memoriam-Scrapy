@@ -34,3 +34,11 @@ Time:  around 476 seconds
 Time:  around 35 seconds
 
 ![image](https://github.com/user-attachments/assets/f3ba8646-e20e-4a3d-bb61-f9e4b6c5c827)
+
+**Consolidate data from all 4 websites**
+
+Time: around 5 minutes and 40 seconds
+
+![image](https://github.com/user-attachments/assets/606ef918-dbf2-4934-ab5c-c51d85de4ee5)
+
+
